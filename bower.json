@@ -1,0 +1,10 @@
+{
+  "name": "Examen-JVT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
